@@ -1,4 +1,4 @@
-# This project is example of how to upload image to server using multer and express
+# This project is example of how to upload image to cloudinary using multer and express
 
 ## QuickStart
 
