@@ -27,4 +27,4 @@ npm run dev
 
 # Run the app
 
-`npm start`
+`npm run dev`
